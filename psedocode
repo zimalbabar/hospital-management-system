@@ -1,0 +1,10 @@
+Functions:
+Menu: Display options and return user choice.
+ADDPATIENTS:
+Prompt for patient details, validate gender, write to patient.txt, increment count.
+ADDDOCTORS:
+Prompt for doctor details, write to doctorfile.txt, increment doc_count.
+DISPLAYPATIENTS:
+Read and print patient details from patient.txt.
+DISPLAYDOCTORS:
+Read and print doctor details from doctorfile.txt
